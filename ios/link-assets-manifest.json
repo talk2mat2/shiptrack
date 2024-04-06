@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SFpro.otf",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    },
+    {
+      "path": "assets/fonts/SFproItalic.OTF",
+      "sha1": "0de83203799afa70ae34ef9e2a223144147e8ad8"
+    }
+  ]
+}

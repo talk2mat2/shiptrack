@@ -1,0 +1,23 @@
+export const colors = {
+  primary: '#2F50C1',
+  primary2:"#D9E6FD",
+  primary3:"#6E91EC",
+  white: '#ffffff',
+  black: '#000000',
+  lightgrey: '#757281',
+  dimgrey:"#58536E",
+  lightgrey2: '#3F395C',
+  mediumgrey: '#F4F2F8',
+  error: '#ff4c4c',
+  error2: '#FEE3D4',
+  error3: '#D12030',
+  success: '#E3FAD6',
+  success2: '#208D28',
+  ritualCyan: '#F3F2F7',
+  warning: '#FFF3D5',
+  warning2: '#DB7E21',
+  ritualCyan4: '#F4F2F8',
+  titualCyan2: '#58536E',
+  ritualCyan3: '#D0D5DD',
+  green1:"#25D366"
+};
